@@ -63,9 +63,9 @@ span {
   color: #ffffff;
   cursor: pointer;
 }
-.button-sty:hover {
+.button-styl:hover {
   background-color: #404bbf;
 }
-.button-sty:focus {
+.button-styl:focus {
   background-color: #404bbf;
 }
