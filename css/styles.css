@@ -35,11 +35,11 @@ span {
 .adress-email {
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color зі значенням #434455;
+  color: #434455;
 }
 .adress-email:hover {
-    color: #404bbf;
+  color: #404bbf;
 }
 .adress-email:focus {
-    color: #404bbf;
+  color: #404bbf;
 }
